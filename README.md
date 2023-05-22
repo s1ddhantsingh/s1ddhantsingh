@@ -4,6 +4,8 @@ i'm a passionate and ambitious student, aiming to acquire project development sk
 
 ![siddhant's github stats](https://github-readme-stats.vercel.app/api?username=s1ddhantsingh&count_private=true)
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## i'm currently learning:
 
