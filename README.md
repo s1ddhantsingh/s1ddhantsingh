@@ -3,9 +3,9 @@
 i'm a passionate and ambitious student, aiming to acquire project development skills through code. this summer of 2023, i'm diving deep into learning the myern stack (mysql, express, react, node), aws aurora, ai, and web3...
 
 ![siddhant's github stats](https://github-readme-stats.vercel.app/api?username=s1ddhantsingh&count_private=true)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=s1ddhantsingh&color=blueviolet)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s1ddhantsingh&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1ddhantsingh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## i'm currently learning:
 
