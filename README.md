@@ -2,7 +2,7 @@
 
 i'm a passionate and ambitious student, aiming to acquire project development skills through code. this summer of 2023, i'm diving deep into learning the mern stack (mongoDB, express, react, node), aws aurora, ai, and web3...
 
-![siddhant's github stats](https://github-readme-stats.vercel.app/api?username=s1ddhantsingh&count_private=true)
+![siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1ddhantsingh&show_icons=true&theme=transparent)
 
 ![](https://komarev.com/ghpvc/?username=s1ddhantsingh&color=blueviolet)
 
