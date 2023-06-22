@@ -22,4 +22,4 @@ i'm a passionate and ambitious student, becoming a god at coding (100x engineer)
 
 ## let's connect:
 
-feel free to reach out or follow me on [twitter](https://twitter.com/siddhants1ngh), [linkedin](https://www.linkedin.com/in/siddhant-singh-0217/), or via my [email](siddhant@joinnova.xyz).
+feel free to reach out or follow me on [twitter](https://twitter.com/siddhants1ngh), [linkedin](https://www.linkedin.com/in/siddhant-singh-0217/), or via my [email](mailto:siddhant@joinnova.xyz).
