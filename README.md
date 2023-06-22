@@ -1,21 +1,12 @@
 # hi there, i'm siddhant singh 👋
 
-i'm a passionate and ambitious student, aiming to acquire project development skills through code. this summer of 2023, i'm diving deep into learning the mern stack (mongoDB, express, react, node), aws aurora, ai, and web3.
-
-![siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1ddhantsingh&show_icons=true&theme=transparent)
+i'm a passionate and ambitious student, becoming a god at coding (100x engineer). over summer 2023, i'm diving deep into learning the mern stack (mongoDB, express, react, node), aws aurora, and ai.
 
 ![](https://komarev.com/ghpvc/?username=s1ddhantsingh&color=blueviolet)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s1ddhantsingh&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s1ddhantsingh&theme=dark&background=000000)](https://git.io/streak-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1ddhantsingh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## i'm currently learning:
-
-- myern stack (mysql, express, react, node)
-- aws aurora
-- artificial intelligence
-- web3
 
 ## technologies i know:
 
@@ -31,4 +22,4 @@ i'm a passionate and ambitious student, aiming to acquire project development sk
 
 ## let's connect:
 
-feel free to reach out or follow me on [twitter](twitter_link), [linkedin](linkedin_link), or via my [email](email_link).
+feel free to reach out or follow me on [twitter](https://twitter.com/siddhants1ngh), [linkedin](https://www.linkedin.com/in/siddhant-singh-0217/), or via my [email](siddhant@joinnova.xyz).
