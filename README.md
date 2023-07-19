@@ -4,6 +4,7 @@ i'm a passionate and ambitious student, becoming a god at coding (100x engineer)
 
 ![](https://komarev.com/ghpvc/?username=s1ddhantsingh&color=blueviolet)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s1ddhantsingh&theme=dark&background=000000)](https://git.io/streak-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1ddhantsingh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
